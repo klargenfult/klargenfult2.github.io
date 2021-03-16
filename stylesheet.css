@@ -480,6 +480,4 @@ td{
   transform: translateY(-10px) rotate(45deg);
   bottom: 0;
 }
-body{
-  overflow-x: hidden;
-}
+
