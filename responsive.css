@@ -45,17 +45,20 @@
   .ee{
     font-size:10px;
   }
-    .ttt {
+  .ttt {
   position:absolute;
   width: 100%;
-}
-#nav{
+  }
+  #nav{
   position: fixed;
-  height: 200vh;
+  height:430px;
   width: 55%;
-  right: -42%;
+  right: -50%;
   top: 0;
   background: #ffffff;
   transition: .7s;
-}
+  }
+body{
+  overflow-x:hidden;
+  }
 }
