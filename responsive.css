@@ -46,16 +46,19 @@
     font-size:10px;
   }
   .ttt {
-  position:absolute;
-  width: 100%;
+    position:absolute;
+    width: 100%;
   }
   #nav{
-  position: fixed;
-  height:430px;
-  width: 55%;
-  right: -50%;
-  top: 0;
-  background: #ffffff;
-  transition: .7s;
+    position: fixed;
+    height:430px;
+    width: 55%;
+    right: -50%;
+    top: 0;
+    background: #ffffff;
+    transition: .7s;
+  }
+  iframe{
+    height:500px;
   }
 }
