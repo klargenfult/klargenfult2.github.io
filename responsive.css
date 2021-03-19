@@ -70,4 +70,7 @@
  .wrapper{
    overflow-x:hidden;
   }  
+ .start h1{
+   font-size:15px;
+  }
 }
