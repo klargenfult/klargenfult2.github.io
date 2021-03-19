@@ -61,4 +61,13 @@
   iframe{
     height:1400px;
   }
+    .ttt{
+    display:none;
+  }
+  .he{
+    display: block;
+  }
+ .wrapper{
+   overflow-x:hidden;
+  }  
 }
